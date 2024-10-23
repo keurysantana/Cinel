@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keury\\Desktop\\EFA\\LinguagemC\\JogoForca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D9CF64-A44C-44A0-902A-426F55D12CB7}|JogoForca\\JogoForca.vcxproj|C:\\Users\\keury\\Desktop\\EFA\\LinguagemC\\JogoForca\\JogoForca\\JogoForca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7D9CF64-A44C-44A0-902A-426F55D12CB7}|JogoForca\\JogoForca.vcxproj|solutionrelative:JogoForca\\JogoForca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JogoForca.cpp",
+              "DocumentMoniker": "C:\\Users\\keury\\Desktop\\EFA\\LinguagemC\\JogoForca\\JogoForca\\JogoForca.cpp",
+              "RelativeDocumentMoniker": "JogoForca\\JogoForca.cpp",
+              "ToolTip": "C:\\Users\\keury\\Desktop\\EFA\\LinguagemC\\JogoForca\\JogoForca\\JogoForca.cpp",
+              "RelativeToolTip": "JogoForca\\JogoForca.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T11:14:57.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  JogoForca.cpp
+C:\Users\keury\Desktop\EFA\LinguagemC\JogoForca\JogoForca\JogoForca.cpp(88,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\keury\Desktop\EFA\LinguagemC\JogoForca\JogoForca\JogoForca.cpp(145,1): warning C4715: 'jogar': not all control paths return a value
+  JogoForca.vcxproj -> C:\Users\keury\Desktop\EFA\LinguagemC\JogoForca\x64\Debug\JogoForca.exe
